@@ -1,15 +1,13 @@
- <p align="center"><img width="800" height="200px" align="center" src="https://user-images.githubusercontent.com/72185618/162569007-a7c07729-d96f-4a29-b98b-902beae7168e.gif" /></p>
- 
+ <p align="center"><img width="800" height="200px" align="center" src="https://user-images.githubusercontent.com/72185618/162569646-3957bef2-1e82-4c43-94fa-f7c7c8ae3449.gif" /></p>
 
-</br>
 
-### <p align="center">I'm a self-taught passionate FullStack developer from Minsk 🏙 </p>
+
+<!-- ### <p align="center">I'm a self-taught passionate FullStack developer from Minsk 🏙 </p> -->
 <p align="center">- 🔭 I’m currently working on my dope cv website</p>
 <p align="center">- 🌱 I’m currently learning Redux-saga</p>
 <p align="center">- 👯 I’m looking to collaborate on commercial project</p>
 <p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com</p>
 <p align="center">- ⚡ Dope fact: I'm also doing professional photo & vide shootiong</p>
-
 
 
 <!--
