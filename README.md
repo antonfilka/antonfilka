@@ -1,4 +1,5 @@
-### Hi there 👋
+ <p align="center"><img align="center" src="https://user-images.githubusercontent.com/72185618/162562759-ead4b6be-3a8c-459b-adee-aac29179286d.gif" /></p>
+
 
 I'm a self-taught passionate FullStack developer from Minsk 🏙
 
