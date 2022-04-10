@@ -35,16 +35,16 @@
 
 <br/>
 
-| <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=antonfilka&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Anton Filippovich github stats" /> | <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonfilka&layout=compact&theme=onedark&hide_border=true" /> |
+| <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=antonfilka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton Filippovich github stats" /> | <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonfilka&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 <a href="https://github.com/antonfilka/dynamic-form-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=dynamic-form-manager&theme=onedark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=dynamic-form-manager&theme=buefy&hide_border=true" />
 </a>
 <a href="https://github.com/antonfilka/react-spring-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=react-spring-page&theme=onedark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=react-spring-page&theme=buefy&hide_border=true" />
 </a>
 
 <br />
