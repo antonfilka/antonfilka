@@ -7,7 +7,7 @@
 <p align="center">- 🌱 I’m currently learning Redux-saga</p>
 <p align="center">- 👯 I’m looking to collaborate on commercial project</p>
 <p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com</p>
-<p align="center">- ⚡ Dope fact: I'm also doing professional photo & vide shootiong</p>
+<p align="center">- ⚡ Dope fact: I'm also doing professional photo & video shootiong</p>
 
 
 <!--
