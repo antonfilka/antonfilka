@@ -5,6 +5,7 @@
 <!-- ### <p align="center">I'm a self-taught passionate FullStack developer from Minsk 🏙 </p> -->
 <p align="center">- 🔭 I’m currently working on Trello clone</p>
 <p align="center">- 🌱 I’m currently learning Redux-saga</p>
+<p align="center">- 👨‍🎓 Belarusian State University of Informatics and Radioelectronics student</p>
 <p align="center">- 👯 I’m looking to collaborate on commercial project</p>
 <p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com</p>
 <p align="center">- ⚡ Dope fact: I'm also doing professional photo & video shooting</p>
