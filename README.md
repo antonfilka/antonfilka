@@ -41,6 +41,9 @@
 
 #### Top Repositories
 
+<a href="https://github.com/antonfilka/strategy-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=strategy-game&theme=buefy" />
+</a>
 <a href="https://github.com/antonfilka/trello-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=trello-clone&theme=buefy" />
 </a>
