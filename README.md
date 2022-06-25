@@ -3,8 +3,7 @@
 
 
 <!-- ### <p align="center">I'm a self-taught passionate FullStack developer from Minsk 🏙 </p> -->
-<p align="center">- 🔭 I’m currently working on Tactical fight game (React, TypeScript)</p>
-<p align="center">- 🌱 I’m currently learning tauri js</p>
+<p align="center">- 🌱 I’m currently learning advanced node.js</p>
 <p align="center">- 👨‍🎓 BSUIR student</p>
 <p align="center">- 👯 I’m looking to collaborate on commercial project</p>
 <p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com</p>
