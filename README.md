@@ -38,21 +38,6 @@
 | <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=antonfilka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton Filippovich github stats" /> | <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonfilka&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-<a href="https://github.com/antonfilka/strategy-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=strategy-game&theme=buefy" />
-</a>
-<a href="https://github.com/antonfilka/trello-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=trello-clone&theme=buefy" />
-</a>
-<a href="https://github.com/antonfilka/dynamic-form-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=dynamic-form-manager&theme=buefy" />
-</a>
-<a href="https://github.com/antonfilka/react-spring-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonfilka&repo=react-spring-page&theme=buefy" />
-</a>
-
 
 <br />
 <br />
