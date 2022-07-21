@@ -35,10 +35,3 @@
 
 <br/>
 
-| <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=antonfilka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anton Filippovich github stats" /> | <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonfilka&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
-
-<br />
-<br />
-
