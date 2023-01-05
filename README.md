@@ -9,15 +9,6 @@
 <p align="center">- ⚡ Dope fact: I'm also doing professional photo & video shooting</p>
 
 
-<!--
-**About me**
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..
-- 
--->
-
 <br/>
 
 ### My stack:
