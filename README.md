@@ -2,7 +2,7 @@
 
 
 
-<!-- ### <p align="center">I'm a self-taught passionate FullStack developer from Minsk 🏙 </p> -->
+<!-- ### <p align="center">I'm self-taught passionate FullStack developer from Minsk 🏙 </p> -->
 <p align="center">- 🌱 I’m currently learning svelte & nest.js</p>
 <p align="center">- 👨‍🎓 BSUIR student</p>
 <p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com</p>
