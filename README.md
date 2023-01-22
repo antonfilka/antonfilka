@@ -15,6 +15,7 @@
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></code>
 <code><img height="30" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>
