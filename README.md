@@ -21,7 +21,6 @@
 <code><img height="30" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>
 <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
-<code><img height="30" src="https://expressjs.com/images/express-facebook-share.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/c5/73/49/c57349d1de8e1834c3d93a2e8f9ef615.png"></code>
