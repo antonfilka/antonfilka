@@ -7,7 +7,7 @@
 <!-- ### <p align="center">- 🌱 I’m currently learning svelte & three.js</p> -->
 <!-- <p align="center">- 👨‍🎓 BSUIR student</p> -->
 <p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com </p>
-<p align="center">- ⚡ Dope fact: I'm also doing professional photo & video shooting</p>
+<p align="center">- ⚡ I'm leartning golang</p>
 
 
 <br/>
@@ -23,6 +23,7 @@
 <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+<code><img height="45" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/c5/73/49/c57349d1de8e1834c3d93a2e8f9ef615.png"></code>
 <code><img height="31" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png"></code>
 
