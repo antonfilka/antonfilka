@@ -7,7 +7,6 @@
 <!-- ### <p align="center">- 🌱 I’m currently learning svelte & three.js</p> -->
 <!-- <p align="center">- 👨‍🎓 BSUIR student</p> -->
 <p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com </p>
-<p align="center">- ⚡ I'm leartning golang</p>
 
 
 <br/>
