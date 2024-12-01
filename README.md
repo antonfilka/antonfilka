@@ -1,6 +1,6 @@
 
 <p font-size="40px" align="center"><code>Hi, I'm Anton Filippovich</code></p>
-<p align="center"><code>Fullstack JavaScript Developer</code></p>
+<p align="center"><code>Fullstack Software Engineer</code></p>
 
 
 <!-- ### <p align="center">I'm self-taught passionate FullStack developer from Minsk 🏙 </p> -->
