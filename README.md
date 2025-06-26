@@ -17,7 +17,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></code>
-<code><img height="30" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
+<code><img height="30" src="https://logicwiki.co.uk/images/4/49/Redux.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>
 <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png"></code>
